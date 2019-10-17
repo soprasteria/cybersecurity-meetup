@@ -56,7 +56,7 @@ A special case can be found in the case of only 2 groups as output. It is basica
 Orange Data Mining Tests Datasets can be found [here](https://github.com/biolab/orange3/tree/master/Orange/datasets)
 
  * Supervised Machine Learning [Random Forest](https://docs.biolab.si//3/visual-programming/widgets/model/randomforest.html)
- * Unsupervised Machine Learning [PCA](https://docs.biolab.si//3/visual-programming/widgets/unsupervised/PCA.html)
+ * Unsupervised Machine Learning [PCA Tutorial](https://docs.biolab.si//3/visual-programming/widgets/unsupervised/PCA.html), [PCA Video](https://www.youtube.com/watch?v=hSDinYYObd4)
 
 ### Web proxies logs 
 
