@@ -53,7 +53,7 @@ A special case can be found in the case of only 2 groups as output. It is basica
 
 ### Supervised Machine Learning Tutorials 
 
-    [Orange Data Mining Tests Datasets can be found here](https://github.com/biolab/orange3/tree/master/Orange/datasets)
+Orange Data Mining Tests Datasets can be found [here](https://github.com/biolab/orange3/tree/master/Orange/datasets)
 
  * Supervised Machine Learning [Random Forest](https://docs.biolab.si//3/visual-programming/widgets/model/randomforest.html)
  * Unsupervised Machine Learning [PCA](https://docs.biolab.si//3/visual-programming/widgets/unsupervised/PCA.html)
@@ -97,5 +97,5 @@ Explore use of machine learning (supervised and unsupervised) to try to detect t
 
 ## Todo list
 
- [ ] Comment the source code
- [ ] Provide step by step tutorial for better understanding
+ - [ ] Comment the source code
+ - [ ] Provide step by step tutorial for better understanding
