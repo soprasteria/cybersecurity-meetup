@@ -1,0 +1,4 @@
+TIMESTAMP	BYTES	TYPE	IP_SRC	URL	CATEGORIES	USER	USER_AGENT	REFERRER	METHOD	ACTION	RESULT_CODE	DOMAIN
+continuous	continuous	discrete	string	string	string	string	string	string	string	string	string	string
+		class	meta	meta	meta	meta	meta	meta	meta	meta	meta	meta
+1463950808.0	1071.0		192.168.0.166	http://logc215.xiti.com/hit.xiti?s=492987&ts=1463950807917&vtag=5.2.3&ptag=js&r=1366x768x24x24&re=1366x705&hl=23x0x7&lng=fr&idp=2300076635394&jv=0&at=&ac=&p=top_14::news::toulouse_assure_l_essentiel_679023&s2=8&x13=[nonabonnee]&x14=[web_Gratuit]&x16=[maxim	Whitelist_Enterprise;Web Ads/Analytics	user_739	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36	http://www.lequipe.fr/Rugby/Actualites/Toulouse-assure-l-essentiel-a-oyonnax/679023	GET	OBSERVED	200	
